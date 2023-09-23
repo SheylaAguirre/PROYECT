@@ -12,8 +12,8 @@ namespace Proyect
 {
     public partial class Form1 : Form
     {
-        String usuario = "Jesus";
-        String contrasena = "jesus";
+        String usuario = "Pollito";
+        String contrasena = "Pollito";
         public Form1()
         {
             InitializeComponent();
