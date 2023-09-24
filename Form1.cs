@@ -38,7 +38,6 @@ namespace Proyect
                 if (txtContrasena.Text != contrasena)
                 {
                     MessageBox.Show("La contraseña es incorrecta");
-                    MessageBox.Show("Vuelve a intentarlo");
                     txtContrasena.Clear();
                     txtContrasena.Focus();
                     return;
